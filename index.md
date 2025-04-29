@@ -7,8 +7,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00DdM00000MbtSK',
-				'Case_Manager_aget',
-				'https://orgfarm-ef8aaf07c5-dev-ed.develop.my.site.com/ESWCaseManageraget1745907715270',
+				'developer_code_live_web_2',
+				'https://orgfarm-ef8aaf07c5-dev-ed.develop.my.site.com/ESWdevelopercodelivewe1745500524564',
 				{
 					scrt2URL: 'https://orgfarm-ef8aaf07c5-dev-ed.develop.my.salesforce-scrt.com'
 				}
@@ -18,7 +18,8 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://orgfarm-ef8aaf07c5-dev-ed.develop.my.site.com/ESWCaseManageraget1745907715270/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://orgfarm-ef8aaf07c5-dev-ed.develop.my.site.com/ESWdevelopercodelivewe1745500524564/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
 
 
   </body>
